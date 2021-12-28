@@ -7,7 +7,9 @@
 ####Estudando inglês 🇺🇸<br>
 ####Gosto de Ler 📘<br>
 
-![AlbericoJr GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbericoJr&show_icons=true&theme=tokyonight)
+<div align="center">
+<a href="https://github.com/albericojr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albericojr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 ###Contatos 🤙
 
