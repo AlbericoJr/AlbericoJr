@@ -50,7 +50,7 @@ Se você quiser bate um papo, vou ter o prazer em pode conversa, trazer novas id
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.pinimg.com/564x/f8/c4/ed/f8c4ed7ce2eea175f50d83a181419197.jpg" align="center" style="width: 50%" />
+<img src="https://i.pinimg.com/564x/f8/c4/ed/f8c4ed7ce2eea175f50d83a181419197.jpg" align="center" style="width: 50%" height: 50%; />
 </div>  
 
 
