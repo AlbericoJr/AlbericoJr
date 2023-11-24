@@ -18,13 +18,13 @@
 ### Glad to see you here!  
 Hello! 👋
 
-Eu sou desenvolvedor front-end, que está iniciando no mundo da programação.
+Sou desenvolvedor front-end, que gosta de falar sobre tecnologia.
 
-Eu também sou produtor de conteúdo motivacionais, que gosta de motivar pessoas, pois não sabemos o que cada um está passando no momento.
+Me defino como um apaixonado por inovação e avanços tecnológicos. Acredito que as conexões movem o mundo e são capazes de ampliar o nosso repertório de vida e contribuir para nossa evolução.
 
-Também produzo artigos voltados para a área de tecnologia, trazendo novidades, dicas, historias e muito mais.
+Faço Graduação em Sistemas de Informação, com experiência em administração de softwares, onde possuo portfólio com habilidade em HTML, CSS, JavaScript, React, Bootstrap, TypeScript, AWS, Banco de dados.
 
-Se você quiser bate um papo, vou ter o maior prazer em pode conversa com você, trazer novas ideias e quem sabe poder criar algum projeto juntos.   
+Minha formação inicial é voltada para a área de Gestão de Pessoas, onde pude adquirir experiência em gestão de processos e demandas administrativas. Em paralelo, também realizo trabalhos freelancers voltados diretamente para área tecnológica.
 
 <br/>  
 
