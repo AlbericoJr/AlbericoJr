@@ -20,11 +20,11 @@ Hello! 👋
 
 Sou desenvolvedor front-end, que gosta de falar sobre tecnologia.
 
-Me defino como um apaixonado por inovação e avanços tecnológicos. Acredito que as conexões movem o mundo e são capazes de ampliar o nosso repertório de vida e contribuir para nossa evolução.
+Sou um desenvolvedor front-end apaixonado por inovação e avanços tecnológicos. Acredito firmemente que as conexões movem o mundo, ampliando nosso repertório de vida e contribuindo para nossa evolução contínua.
 
-Faço Graduação em Sistemas de Informação, com experiência em administração de softwares, onde possuo portfólio com habilidade em HTML, CSS, JavaScript, React, Bootstrap, TypeScript, AWS, Banco de dados.
+Atualmente, estou cursando Graduação em Sistemas de Informação e possuo experiência significativa na administração de softwares. Meu portfólio destaca minhas habilidades em HTML, CSS, JavaScript, React, React Native, Sass, Bootstrap, Tailwind CSS, TypeScript, AWS, Python e Banco de Dados.
 
-Minha formação inicial é voltada para a área de Gestão de Pessoas, onde pude adquirir experiência em gestão de processos e demandas administrativas. Em paralelo, também realizo trabalhos freelancers voltados diretamente para área tecnológica.
+Minha formação inicial é em Gestão de Pessoas, onde adquiri sólida experiência em gestão de processos e demandas administrativas. Paralelamente, atuo como freelancer na área tecnológica, o que me permite aplicar e expandir meus conhecimentos de forma prática e dinâmica.
 
 <br/>  
 
