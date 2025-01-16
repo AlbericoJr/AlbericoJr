@@ -52,7 +52,7 @@ Minha formação inicial é em Gestão de Pessoas, onde adquiri sólida experiê
   <img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/640px-Sass_Logo_Color.svg.png" alt="Sass" height="30" />
   <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="30" />
   <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" />
-  <img style="margin: 15px" src="https://images.seeklogo.com/logo-png/41/2/react-native-logo-png_seeklogo-410644.png" alt="React" height="30" />
+  <img style="margin: 15px" src="https://static-00.iconduck.com/assets.00/sdk-react-native-icon-512x490-ynyk8t4w.png" alt="React Native" height="30" />
   <img style="margin: 15px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="Node.js" height="30" />
   <img style="margin: 15px" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="Next.js" height="30" />
   <img style="margin: 15px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="AWS" height="30" />
