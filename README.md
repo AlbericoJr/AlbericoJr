@@ -1,7 +1,4 @@
-from pathlib import Path
 
-# Conteúdo do README.md personalizado para o Albérico Junior
-readme_content = """
 <h1 align="center">🚀 Olá, eu sou o Albérico Junior!</h1>
 <p align="center">Front-end Developer | Tech Lover | Always Learning 💡</p>
 
@@ -84,11 +81,4 @@ Estou sempre aberto para **novas conexões, colaborações e oportunidades!**
 ![Visitas](https://komarev.com/ghpvc/?username=AlbericoJr&label=Visualizações%20no%20perfil&color=0e75b6&style=flat)
 
 </div>
-"""
-
-# Salvar como arquivo README.md
-readme_path = Path("/mnt/data/README_Albérico_Junior.md")
-readme_path.write_text(readme_content, encoding="utf-8")
-
-readme_path.name
 
