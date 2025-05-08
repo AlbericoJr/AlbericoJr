@@ -3,7 +3,7 @@
 <p align="center">Front-end Developer | Tech Lover | Always Learning 💡</p>
 
 <div align="center">
-  <img src="assets/alberico_Image.png" width="50%" alt="Albérico Header" />
+  <img src="[assets/alberico_Image.png](https://sdmntprwestus.oaiusercontent.com/files/00000000-9a2c-5230-9c38-6090f2cf4d6c/raw?se=2025-05-08T19%3A44%3A55Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=04233560-0ad7-493e-8bf0-1347c317d021&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-08T09%3A43%3A39Z&ske=2025-05-09T09%3A43%3A39Z&sks=b&skv=2024-08-04&sig=GrdYlGbXy8QnvkzdeJqUFzTktbycKVgiV/R%2BB4hMimw%3D)" width="50%" alt="Albérico Header" />
 </div>
 
 <div align="center">
