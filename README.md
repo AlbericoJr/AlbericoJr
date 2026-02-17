@@ -66,6 +66,7 @@ Tenho background em **Gestão de Pessoas**, o que me dá um olhar diferenciado p
 | **Pet Doctor** | HTML, CSS, JavaScript | [🔗 Ver](https://albericojr.github.io/Pet_Doctor/) |
 | **Chat GPT Simulado** | React, CSS | [🔗 Ver](https://hilarious-tartufo-d8cc6d.netlify.app/) |
 | **Gym Academy** | React, Tailwind CSS | [🔗 Ver](https://gym-academia.vercel.app/) |
+| **Nova** | React, Tailwind CSS | [🔗 Ver](https://nova-psi-pied.vercel.app/) |
 
 ---
 
