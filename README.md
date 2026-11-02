@@ -67,10 +67,10 @@ Estudo **Sistemas de Informação** e tenho formação anterior em **Gestão de 
 | :--- | :--- | :--- | :--- |
 | **UpFit** | Aplicativo para organizar treinos e acompanhar atividades físicas. | React Native, Expo, TypeScript, Node.js | [Código](https://github.com/AlbericoJr/UpFit) |
 | **GranaGo** | Aplicativo mobile para controle financeiro, com integração ao backend. | React Native, TypeScript, Node.js | [Código](https://github.com/AlbericoJr/GranaGo) |
-| **Planej.ai** | Simulações de metas financeiras e análises assistidas por IA. | React, TypeScript, Vite | [Código](https://github.com/AlbericoJr/planejai) · [Demo](https://planejai-rosy.vercel.app/) |
+| **GYM** | Uma experiência digital moderna para apresentar serviços, profissionais e planos de uma academia. | React, Tailwind, Vite | [Código](https://github.com/AlbericoJr/GYM) · [Demo](https://gym-academia.vercel.app/) |
 | **Nova** | Website institucional com páginas e componentes responsivos. | React, Vite, CSS | [Código](https://github.com/AlbericoJr/Nova) · [Demo](https://nova-psi-pied.vercel.app/) |
 | **Brainwave** | Landing page de tecnologia com interface moderna e animações. | React, Tailwind CSS | [Código](https://github.com/AlbericoJr/Brainwave) · [Demo](https://brainwave-rho-ten.vercel.app/) |
-| **Portfólio pessoal** | Website para reunir minha trajetória, projetos e formas de contato. | Next.js, Tailwind CSS | [Código](https://github.com/AlbericoJr/AlbericoJr-portfolio) · [Demo](https://albericojr-portfolio-xi.vercel.app/) |
+| **Matcha** | Compare seu currículo com uma vaga, identifique pontos de alinhamento e organize as evidências mais relevantes para cada candidatura. | React, CSS, TypeScript, IA | [Código](https://github.com/AlbericoJr/AlbericoJr-portfolio) · [Demo](https://matcha-flame.vercel.app) |
 
 <details>
 <summary><strong>📂 Ver mais repositórios e estudos</strong></summary>
