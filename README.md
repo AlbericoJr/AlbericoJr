@@ -1,49 +1,106 @@
 <div align="center">
 
+<img src="https://i.postimg.cc/TP2DXFyP/alberico-jr-dev.png" alt="Banner de apresentação de Albérico Júnior" width="720" />
+
 # Olá, eu sou Albérico Júnior 👋
+
 ### Desenvolvedor Front-end & Mobile
 
-Crio interfaces e aplicações web e mobile, com foco em **React, Next.js, TypeScript e React Native**.
+**React • Next.js • TypeScript • React Native**
 
+Desenvolvo interfaces e aplicações web e mobile com atenção à experiência do usuário, organização do código e evolução contínua.
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://albericojr-portfolio-xi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberico-junior/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://albericojr-portfolio-xi.vercel.app/)
 [![Medium](https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@albericoJr)
 
 </div>
 
-## Sobre mim
+---
 
-Sou desenvolvedor com experiência prática em projetos de interface e aplicações mobile. Estudo **Sistemas de Informação** e tenho formação anterior em **Gestão de Recursos Humanos**, que contribui para minha comunicação, organização e colaboração em equipe.
+## 👨‍💻 Sobre mim
 
-Gosto de transformar ideias em produtos utilizáveis e documentar aprendizados. Busco oportunidades em desenvolvimento **Front-end (React/Next.js)** e **Mobile (React Native)**.
+Sou desenvolvedor com foco em **Front-end e Mobile**, criando projetos com React, Next.js, TypeScript e React Native. Gosto de transformar ideias em interfaces acessíveis, responsivas e fáceis de usar, além de explorar a integração entre aplicações e APIs.
 
-## Tecnologias
+Estudo **Sistemas de Informação** e tenho formação anterior em **Gestão de Recursos Humanos**, uma experiência que contribui para minha comunicação, colaboração e visão das necessidades de quem utiliza os produtos.
 
-**Web:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS  
-**Mobile:** React Native, Expo  
-**Backend e dados:** Node.js, Express, MongoDB, SQLite (em projetos)  
-**Ferramentas:** Git, GitHub, Figma, Vite
+- 🎯 **Foco profissional:** desenvolvimento Front-end (React/Next.js) e Mobile (React Native).
+- 🧩 **Interesses técnicos:** arquitetura de componentes, experiência do usuário, integração com APIs, qualidade e testes.
+- 📚 **Em evolução:** práticas de engenharia de software, backend e automação.
+- 🤝 **Conexões:** aberto a trocar conhecimentos, colaborar em projetos e conhecer oportunidades.
 
-## Projetos selecionados
-
-| Projeto | O que demonstra | Código | Demo |
-| --- | --- | --- | --- |
-| **UpFit** | App mobile para treinos, com React Native e backend | [GitHub](https://github.com/AlbericoJr/UpFit) | — |
-| **GranaGo** | Gestão financeira mobile com React Native, TypeScript e API | [GitHub](https://github.com/AlbericoJr/GranaGo) | — |
-| **Planej.ai** | Simulações financeiras com React, TypeScript e integração de IA | [GitHub](https://github.com/AlbericoJr/planejai) | [Ver site](https://planejai-rosy.vercel.app/) |
-| **Nova** | Site institucional responsivo com React e Vite | [GitHub](https://github.com/AlbericoJr/Nova) | [Ver site](https://nova-psi-pied.vercel.app/) |
-| **Brainwave** | Interface web com React, Tailwind e animações | [GitHub](https://github.com/AlbericoJr/Brainwave) | [Ver site](https://brainwave-rho-ten.vercel.app/) |
-| **Portfólio** | Apresentação dos meus projetos com Next.js | [GitHub](https://github.com/AlbericoJr/AlbericoJr-portfolio) | [Ver site](https://albericojr-portfolio-xi.vercel.app/) |
-
-> Projetos pessoais e de estudo. Cada repositório contém informações específicas sobre implementação e limitações.
-
-## Contato
-
-- **LinkedIn:** [linkedin.com/in/alberico-junior](https://www.linkedin.com/in/alberico-junior/)
-- **Portfólio:** [albericojr-portfolio-xi.vercel.app](https://albericojr-portfolio-xi.vercel.app/)
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-![Visualizações de perfil](https://komarev.com/ghpvc/?username=AlbericoJr&label=Visitas&color=0e75b6&style=flat)
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-149ECA?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+**Backend, dados e ferramentas**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-333333?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+> As tecnologias representam ferramentas que utilizo em projetos e estudos; não indicam o mesmo nível de experiência em todas elas.
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias | Links |
+| :--- | :--- | :--- | :--- |
+| **UpFit** | Aplicativo para organizar treinos e acompanhar atividades físicas. | React Native, Expo, TypeScript, Node.js | [Código](https://github.com/AlbericoJr/UpFit) |
+| **GranaGo** | Aplicativo mobile para controle financeiro, com integração ao backend. | React Native, TypeScript, Node.js | [Código](https://github.com/AlbericoJr/GranaGo) |
+| **Planej.ai** | Simulações de metas financeiras e análises assistidas por IA. | React, TypeScript, Vite | [Código](https://github.com/AlbericoJr/planejai) · [Demo](https://planejai-rosy.vercel.app/) |
+| **Nova** | Website institucional com páginas e componentes responsivos. | React, Vite, CSS | [Código](https://github.com/AlbericoJr/Nova) · [Demo](https://nova-psi-pied.vercel.app/) |
+| **Brainwave** | Landing page de tecnologia com interface moderna e animações. | React, Tailwind CSS | [Código](https://github.com/AlbericoJr/Brainwave) · [Demo](https://brainwave-rho-ten.vercel.app/) |
+| **Portfólio pessoal** | Website para reunir minha trajetória, projetos e formas de contato. | Next.js, Tailwind CSS | [Código](https://github.com/AlbericoJr/AlbericoJr-portfolio) · [Demo](https://albericojr-portfolio-xi.vercel.app/) |
+
+<details>
+<summary><strong>📂 Ver mais repositórios e estudos</strong></summary>
+
+Além dos projetos selecionados, compartilho exercícios, desafios de interface, clones educativos e experimentos com diferentes tecnologias.
+
+**[Explorar todos os repositórios →](https://github.com/AlbericoJr?tab=repositories)**
+
+</details>
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+![Linguagens mais utilizadas nos repositórios públicos](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbericoJr&layout=compact&hide_border=true&langs_count=8&theme=transparent)
+
+<sub>Gráfico externo ilustrativo baseado na composição dos repositórios, não no nível de proficiência.</sub>
+
+</div>
+
+## 📬 Vamos nos conectar?
+
+Gosto de conversar sobre desenvolvimento web, mobile, boas práticas e ideias de produtos. Se você trabalha com tecnologia, recruta profissionais ou gostaria de colaborar em um projeto, será um prazer trocar experiências.
+
+<div align="center">
+
+**[🌐 Portfólio](https://albericojr-portfolio-xi.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/alberico-junior/) · [✍️ Medium](https://medium.com/@albericoJr)**
+
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=AlbericoJr&label=Visitas&color=0e75b6&style=flat)
+
+<sub>Feito com dedicação, curiosidade e vontade de evoluir.</sub>
 
 </div>
